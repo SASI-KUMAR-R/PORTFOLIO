@@ -1,0 +1,14 @@
+/* .nameandsome 
+{
+    position: sticky;
+} */
+.h1font1 {
+    position: relative;
+    color: plum;
+    font-size: 100px;
+    font-weight: lighter;
+    text-align: center;
+    margin-top: 30px;
+    top: 85px;
+    /* margin-bottom: 0; */
+}

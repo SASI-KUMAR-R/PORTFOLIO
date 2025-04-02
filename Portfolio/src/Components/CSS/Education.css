@@ -1,0 +1,37 @@
+.education{
+    height: 250px;
+    width: 1000px;
+    /* border: 10px solid red; */
+    position: relative;
+    /* padding: 3px; */
+    top: 100px;
+    left: 205px;
+    backdrop-filter: blur(3px);
+}
+.h1font2{
+    color: plum;
+    font-weight: lighter;
+    /* color: white; */
+    text-decoration: underline;
+}
+.College{
+    color: white;
+    position: absolute;
+    left: 300px;
+    bottom: 105px;
+    text-align:center;
+}
+
+.School{
+    color: white;
+    position: absolute;
+    left: 670px;
+    bottom: 90px;
+    text-align:center;
+}
+.impfont1{
+    font-weight: lighter;
+    /* text-decoration:underline; */
+    font-size: 40px;
+    color: lightpink;
+}

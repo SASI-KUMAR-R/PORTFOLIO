@@ -1,0 +1,26 @@
+body {
+    background: url(./assets/img.jpg) no-repeat center center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+
+
+::-webkit-scrollbar {
+    width: 10px;
+  }
+  
+
+  ::-webkit-scrollbar-track {
+    background: plum;
+  }
+  
+
+  ::-webkit-scrollbar-thumb {
+    background: plum;
+  }
+  
+
+  ::-webkit-scrollbar-thumb:hover {
+    background: plum;
+  }

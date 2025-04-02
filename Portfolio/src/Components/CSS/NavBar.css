@@ -1,0 +1,18 @@
+nav {
+    display: flex;
+    list-style-type: none;
+    justify-content: space-evenly;
+    padding: 20px;
+    color: hsl(0, 0%, 100%);
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1000; 
+    background-color: transparent;
+    backdrop-filter: blur(10px); /* Add blur effect */
+    cursor: pointer;
+}
+.SOMEDOWN{
+    text-decoration: none;
+    color: white;
+}

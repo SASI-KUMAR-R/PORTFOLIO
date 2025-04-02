@@ -1,0 +1,62 @@
+.Expertise{
+    height: 600px;
+    width: 1000px;
+    /* border: 5px solid black; */
+    padding: 10px;
+    position: relative;
+    left: 190px;
+    top: 100px;
+    
+}
+.programlang{
+    position: absolute;
+    left: 350px;
+    bottom: 400px;
+}
+
+.quantum{
+    position: absolute;
+    left: 770px;
+    bottom: 420px;
+}
+
+.DSA{
+    position: absolute;
+    left: 780px;
+    bottom: 248px;
+}
+
+.querylang{
+    position: absolute;
+    left: 359px;
+    bottom: 265px;
+}
+
+.webpage{
+    position: absolute;
+    left: 359px;
+    bottom: 75px;
+}
+.addition{
+    position: absolute;
+    left: 780px;
+    bottom: 60px;
+
+}
+.h1font3{
+    font-weight: lighter;
+    text-decoration:underline;
+    color: plum;
+}
+.ol1{
+    list-style-type: circle;
+    color: white;
+}
+.impfont2{
+    font-weight: lighter;
+    font-size: 40px;
+    /* text-decoration:underline; */
+    color: lightpink;
+    position: absolute;
+    top: 28px;
+}

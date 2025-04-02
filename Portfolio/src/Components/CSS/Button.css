@@ -1,0 +1,46 @@
+.button1{
+    height: 400px;
+    width: 1000px;
+    /* border: 2px solid red; */
+    position: relative;
+    left: 200px;
+}
+
+.mainbutton {
+    position: absolute;
+    left: 320px;
+    bottom: 10px;
+    padding: 50px;
+    gap: 10px;
+}
+
+.imph1font{
+    height: 100px;
+    width: 350px;
+    position: absolute;
+    left: 360px;
+}
+
+.h1contact{
+    color: white;
+    font-size: 30px;
+}
+
+.iconebtuu{
+    color: white;
+    font-size: 50px;
+}
+.linkedaa{
+    /* background-color: black; */
+    text-decoration: none;
+    color: white;
+}
+.somesent{
+    color: plum;
+}
+.copyright{
+    position: absolute;
+    left:360px;
+    color: white;
+    bottom: 10px;
+}

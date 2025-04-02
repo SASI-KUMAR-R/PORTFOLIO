@@ -1,0 +1,57 @@
+.project{
+    /* border: 5px solid red; */
+    height: 800px;
+    width: 1200px;
+    position: relative;
+    top: 100px;
+    left: 100px;
+    position: relative;
+    /* backdrop-filter: blur(2px); */
+}
+.h3font{
+    font-weight: lighter;
+    font-size: 40px;
+    /* text-decoration:underline; */
+    color: lightpink;
+    position: absolute;
+    top: 40px;
+}
+.h1fontimp4{
+    font-weight: lighter;
+    text-decoration:underline;
+    color: plum;
+}
+.project1{
+    position: absolute;
+    height: 200px;
+    width: 400px;
+    left: 330px;
+    bottom: 550px;
+}
+.project2{
+    position: absolute;
+    height: 200px;
+    width: 400px;
+    left: 800px;
+    bottom: 550px;
+}
+.project3{
+    position: absolute;
+    height: 200px;
+    width: 400px;
+    left: 330px;
+    bottom: 250px;
+}
+.project4{
+    position: absolute;
+    height: 200px;
+    width: 400px;
+    left: 800px;
+    bottom: 250px;
+}
+.paraproject{
+    color: white;
+    justify-content: justify;
+    font-size: medium;
+
+}
