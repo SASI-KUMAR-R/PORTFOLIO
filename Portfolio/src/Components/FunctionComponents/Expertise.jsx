@@ -40,6 +40,7 @@ const Expertise = () => {
           <li>React</li>
           <li>Html</li>
           <li>Css</li>
+          <li>MongoDB</li>
         </ol>
       </div>
 

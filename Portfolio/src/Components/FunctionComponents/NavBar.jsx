@@ -34,8 +34,9 @@ function NavBar() {
           </li>
           <li>
             <a
-              href="https://drive.google.com/file/d/1gAu6KA0TJCpgZDpjAjvCipm_5LdiLjtx/view?usp=sharing"
+              href="https://drive.google.com/file/d/1bTYFcPmRWRSY47dBSms73HedZvddfaE3/view?usp=sharing"
               className="SOMEDOWN"
+              target="-blank"
             >
               Download Resume
             </a>

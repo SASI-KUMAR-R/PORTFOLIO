@@ -10,7 +10,7 @@ function Achievement() {
           College of Engineering - Winner
         </h1>
         <h1 className="imph2">
-          2. Paper Presentation : Sparx-Symposium at SRM Vadapalani -Winner
+          2. Paper Presentation : Sparx-Symposium at SRM Vadapalani - Winner
         </h1>
         <h1 className="imph2">
           3. Hack-AI-Thon’24hrs : Intra College Hackathon, Finalist 1 out of 128 Teams
